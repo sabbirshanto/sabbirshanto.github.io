@@ -9,11 +9,12 @@ th, td {
 </style>
 
 # Udoy Das
-Teaching Assistant <br>
+Lecturer <br>
 East Delta University <br>
 
 B. Sc. in Computer Science and Engineering, <br>
-Chittagong University of Engineering and Technology
+Chittagong University of Engineering and Technology <br>
+CGPA: **3.75(with Honors)** / 4.00 <br>
 
 
 ## About Me
@@ -24,7 +25,7 @@ Chittagong University of Engineering and Technology
     Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 </div>
 
-> Find my [Academic CV Here](https://drive.google.com/file/d/1DOVZy32F6ak3dmqamt5zQBjKRXlOuO3t/view?usp=sharing)
+> Find my [Academic CV Here](https://drive.google.com/file/d/11t8vEJVNTpG4IvVGR7e8vXgNmD5Gbcd0/view?usp=sharing)
 
 
 <table>
@@ -38,6 +39,8 @@ Chittagong University of Engineering and Technology
 
 ## Updates
 
+<code style="color: green"><b>[28-02-25]</b></code> 3 shared task papers has been accepted at DravidianLangTech-2025 @ NAACL 2025 <br>
+<code style="color: green"><b>[08-02-25]</b></code> Promoted to Lecturer <br>
 <code style="color: green"><b>[30-11-24]</b></code> Submitted my thesis <i>BnVITS: End-to-End Single Speaker Bangla Text-to-Speech Synthesis and Voice Cloning with Minimal Audio Samples</i> in Journal of Computer Speech & Language<br>
 <code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
 <code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
