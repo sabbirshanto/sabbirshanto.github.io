@@ -33,6 +33,22 @@ th, td {
 
 ## Conferences
 ---
+* BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech <br>
+***Udoy Das**, Md Saiful Islam, Hasan Murad, Muhammad Ibrahim Khan, Mehadi Hasan Menon, Tareq Muntasir* <br>
+Journal of Discover Applied Sciences | [Preprint](https://www.researchsquare.com/article/rs-6530449/latest)
+
+* Team ML_Forge@ DravidianLangTech 2025: Multimodal Hate Speech Detection in Dravidian Languages <br>
+*Adnan Faisal, Shiti Chowdhury, Sajib Bhattacharjee, **Udoy Das**, Samia Rahman, Momtazul Arefin Labib, Hasan Murad* <br>
+DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.68/)
+
+* CUET_Absolute_Zero@ DravidianLangTech 2025: Detecting AI-Generated Product Reviews in Malayalam and Tamil Language Using Transformer Models <br>
+*Anindo Barua, Sidratul Muntaha, Momtazul Arefin Labib, Samia Rahman, **Udoy Das**, Hasan Murad* <br>
+DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.71/)
+
+* CUET-823@ DravidianLangTech 2025: Shared Task on Multimodal Misogyny Meme Detection in Tamil Language <br>
+*Arpita Mallik, Ratnajit Dhar, **Udoy Das**, Momtazul Arefin Labib, Samia Rahman, Hasan Murad* <br>
+DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.57/)
+
 * CUET_SSTM at the GEM’24 Summarization Task: Integration of extractive and abstractive method for long text summarization in Swahili language <br>
 *Samia Rahman, Momtazul Labib, Hasan Murad, **Udoy Das*** <br>
 GEM 2024 | [Paper](https://aclanthology.org/2024.inlg-genchal.12.pdf)

@@ -38,10 +38,10 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
 </table>
 
 ## Updates
-
+<code style="color: green"><b>[13-05-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now available as preprint - <a href="https://www.researchsquare.com/article/rs-6530449/latest">here</a> and currently under review<br>
+<code style="color: green"><b>[25-04-25]</b></code> Submitted my thesis <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> in Journal of Discover Applied Sciences<br>
 <code style="color: green"><b>[28-02-25]</b></code> 3 shared task papers has been accepted at DravidianLangTech-2025 @ NAACL 2025 <br>
 <code style="color: green"><b>[08-02-25]</b></code> Promoted to Lecturer <br>
-<code style="color: green"><b>[30-11-24]</b></code> Submitted my thesis <i>BnVITS: End-to-End Single Speaker Bangla Text-to-Speech Synthesis and Voice Cloning with Minimal Audio Samples</i> in Journal of Computer Speech & Language<br>
 <code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
 <code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
 <code style="color: green"><b>[11-07-24]</b></code> 2 shared task papers accepted at ArabicNLP 2024 <br>
