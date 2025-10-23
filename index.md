@@ -11,7 +11,6 @@ th, td {
 
 Assistant Professor <br>
 East Delta University <br>
-January 2025 - Present <br>
 
 ## About Me
 <img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
