@@ -5,7 +5,7 @@
  */
 .profile-top-right {
     position: fixed;      /* fixes it on the screen */
-    top: 300px;            /* distance from top */
+    top: 100px;            /* distance from top */
     right: 300px;          /* distance from right */
     width: 100px;         /* size of the image */
     height: 100px;        /* keeps it square */
@@ -13,7 +13,7 @@
     object-fit: cover;    /* fills the circle nicely */
     border: 2px solid #ccc;  /* optional border */
     box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional shadow */
-    z-index: 1000;        /* ensures it stays above other elements */
+           /* ensures it stays above other elements */
 }
 
 html {
