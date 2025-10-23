@@ -32,48 +32,28 @@ th, td {
 </tr>
 </table>
 
+## Journals 
+---
+* A differential privacy aided DeepFed intrusion detection system for IoT applications <br>
+* **Sayeda Suaiba Anwar**, Md. Asaduzzaman, Iqbal Hasan Sarker* <br>
+Security and Privacy 2024  | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/spy2.445)
+
 ## Conferences
 ---
 * Optimizing Privacy-Accuracy Trade-Off in IoT Intrusion Detection: An Analysis of FedAvg and FedProx with Differential Privacy <br>
-***Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
-Conference Proceedings of 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering  | [Paper](https://ieeexplore.ieee.org/document/10915154)
+* **Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
+10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2024  | [Paper](https://ieeexplore.ieee.org/document/10915154)
 
 * A Hybrid Deep Learning Model for Intrusion Detection in IoT Networks <br>
 * Md. Ahnaf Akif, Mushpika Karnyn, **Sayeda Suaiba Anwar*** <br>
-Conference Proceedings of 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering | [Paper](https://ieeexplore.ieee.org/document/10915033)
+10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2024 | [Paper](https://ieeexplore.ieee.org/document/10915033)
 
-* CUET_Absolute_Zero@ DravidianLangTech 2025: Detecting AI-Generated Product Reviews in Malayalam and Tamil Language Using Transformer Models <br>
-*Anindo Barua, Sidratul Muntaha, Momtazul Arefin Labib, Samia Rahman, **Udoy Das**, Hasan Murad* <br>
-DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.71/)
+* Performance Analysis of Ensemble Machine Learning Algorithms in PDF Malware Detection <br>
+* Zarin Sadaf Borno, Nazmus Sakib, **Sayeda Suaiba Anwar** <br>
+9th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2023 | [Paper](https://ieeexplore.ieee.org/document/10456385)
 
-* CUET-823@ DravidianLangTech 2025: Shared Task on Multimodal Misogyny Meme Detection in Tamil Language <br>
-*Arpita Mallik, Ratnajit Dhar, **Udoy Das**, Momtazul Arefin Labib, Samia Rahman, Hasan Murad* <br>
-DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.57/)
+* Transmission of Aggregated Data in LOADng-Based IoT Networks <br>
+* **Sayeda Suaiba Anwar** and Md. Asaduzzaman* <br>
+4th International Conference on Computational Intelligence in Pattern Recognition 2022 | [Paper](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_7)
 
-* CUET_SSTM at the GEM’24 Summarization Task: Integration of extractive and abstractive method for long text summarization in Swahili language <br>
-*Samia Rahman, Momtazul Labib, Hasan Murad, **Udoy Das*** <br>
-GEM 2024 | [Paper](https://aclanthology.org/2024.inlg-genchal.12.pdf)
-
-* Fired_from_NLP at CheckThat! 2024: Estimating the Check-Worthiness of Tweets Using a Fine-tuned Transformer-based Approach <br>
-*Md Sajid Alam Chowdhury, Anik Mahmud Shanto, Mostak Mahmud Chowdhury, Hasan Murad, **Udoy Das*** <br>
-CLEF 2024 | [Paper](https://ceur-ws.org/Vol-3740/paper-34.pdf)
-
-* Fired_from_NLP at SemEval-2024 Task 1: Towards Developing Semantic Textual Relatedness Predictor-A Transformer-based Approach <br>
-*Anik Shanto, Md Sajid Alam Chowdhury, Mostak Chowdhury, **Udoy Das**, Hasan Murad* <br>
-SemEval 2024 | [Paper](https://aclanthology.org/2024.semeval-1.123.pdf)
-
-* CUET_sstm at ArAIEval Shared Task: Unimodal (Text) Propagandistic Technique Detection Using Transformer-Based Model <br>
-*Momtazul Labib, Samia Rahman, Hasan Murad, **Udoy Das*** <br>
-ArabicNLP-WS 2024 | [Paper](https://aclanthology.org/2024.arabicnlp-1.52/)
-
-* Fired_from_NLP at AraFinNLP 2024: Dual-Phase-BERT-A Fine-Tuned Transformer-Based Model for Multi-Dialect Intent Detection in The Financial Domain for The Arabic Language <br>
-*Md Chowdhury, Mostak Chowdhury, Anik Shanto, Hasan Murad, **Udoy Das*** <br>
-ArabicNLP-WS 2024 | [Paper](https://aclanthology.org/2024.arabicnlp-1.36/)
-
-* EmptyMind at BLP-2023 Task 2: Sentiment Analysis of Bangla Social Media Posts using Transformer-Based Models <br>
-*Karnis Fatema, **Udoy Das**, Md Ayon Mia, Md Sajidul Mowla, Mahshar Yahan, MD Fayez Ullah, Arpita Sarker, Hasan Murad* <br>
-EMNLP 2023 | [Paper](https://aclanthology.org/2023.banglalp-1.39/)
-
-* EmptyMind at BLP-2023 Task 1: A Transformer-based Hierarchical-BERT Model for Bangla Violence-Inciting Text Detection <br>
-***Udoy Das**, Karnis Fatema, Md Ayon Mia, Mahshar Yahan, Md Sajidul Mowla, MD Fayez Ullah, Arpita Sarker, Hasan Murad* <br>
-EMNLP 2023 | [Paper](https://aclanthology.org/2023.banglalp-1.19/)
+---
