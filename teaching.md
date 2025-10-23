@@ -8,6 +8,8 @@ layout: default
 ### Undergraduate Thesis Supervision -
 
 I have supervised a number of students for their undergraduate thesis.
+* Implementation and Performance Analysis of Machine Learning Algorithms in PDF Malware Detection - Zarin Sadaf Borno, Nazmus Sakib (January, 2023).
+* Implementation of RAG in Large Language Models for Effective Mental Health Support: A Comparative Analysis - Tahera Batul Ety, Chaity Roy (December, 2023).
 * 
 ### Summer 2025 and Fall 2025 -
 * CSE 315: Microprocessor and Interfacing
