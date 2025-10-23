@@ -16,13 +16,9 @@ January 2025 - Present <br>
 Local Trainer - Python<br>
 EDGE Project by ICT Division, Bangladesh and World Bank <br>
 September 2024 - January 2025
-<img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
 
 ## About Me
-
-
-
-
+<img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
 
 <div style="text-align: justify">
   Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, <b>Cybersecurity</b>, and <b>Federated Learning</b>, and I’m currently exploring how <b>Generative AI</b> can help build more secure and trustworthy systems.
