@@ -22,15 +22,6 @@ th, td {
 * Large Language Models (LLMs)
 
 
-<!-- |[Google Scholar](https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao)|[Research Gate](https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf)|  -->
-
-
-<table>
-<tr> 
-<td><a href="https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao">Google Scholar</a></td>
-<td><a href="[https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf]">Research Gate</a></td>
-</tr>
-</table>
 
 ## Journals 
 ---
