@@ -3,17 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [udoy.d@eastdelta.edu.bd](mailto:udoy.d@eastdelta.edu.bd), [u1804109@student.cuet.ac.bd](mailto:u1804109@student.cuet.ac.bd), [udoydas153@gmail.com](mailto:udoydas153@gmail.com)
+* Email: [suaiba.s@eastdelta.edu.bd](mailto:suaiba.s@eastdelta.edu.bd), [suaiba.anwar04@gmail.com](mailto:suaiba.anwar04@gmail.com)
 
-* Phone: [+8801830702457](tel:+8801830702457)
+* Phone: [+8801836047408](tel:+8801836047408)
 
 ---
 
 ## Mailing Address
 
-> 265, Jagannath Para, Mirzapur
+> Mujaffarnagar R/A
 >
-> Mirzapur-4334, Hathazari, Chittagong
+> Khulshi, Chattogram
 >
 > Bangladesh
 
