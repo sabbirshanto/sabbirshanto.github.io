@@ -38,9 +38,9 @@ th, td {
 ***Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
 Conference Proceedings of 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering  | [Paper](https://ieeexplore.ieee.org/document/10915154)
 
-* Team ML_Forge@ DravidianLangTech 2025: Multimodal Hate Speech Detection in Dravidian Languages <br>
-*Adnan Faisal, Shiti Chowdhury, Sajib Bhattacharjee, **Udoy Das**, Samia Rahman, Momtazul Arefin Labib, Hasan Murad* <br>
-DravidianLangTech 2025 | [Paper](https://aclanthology.org/2025.dravidianlangtech-1.68/)
+* A Hybrid Deep Learning Model for Intrusion Detection in IoT Networks <br>
+* Md. Ahnaf Akif, Mushpika Karnyn, **Sayeda Suaiba Anwar*** <br>
+Conference Proceedings of 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering | [Paper](https://ieeexplore.ieee.org/document/10915033)
 
 * CUET_Absolute_Zero@ DravidianLangTech 2025: Detecting AI-Generated Product Reviews in Malayalam and Tamil Language Using Transformer Models <br>
 *Anindo Barua, Sidratul Muntaha, Momtazul Arefin Labib, Samia Rahman, **Udoy Das**, Hasan Murad* <br>
