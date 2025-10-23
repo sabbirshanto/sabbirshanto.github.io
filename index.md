@@ -13,10 +13,6 @@ Assistant Professor <br>
 East Delta University <br>
 January 2025 - Present <br>
 
-Local Trainer - Python<br>
-EDGE Project by ICT Division, Bangladesh and World Bank <br>
-September 2024 - January 2025
-
 ## About Me
 <img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
 
