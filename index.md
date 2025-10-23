@@ -8,7 +8,6 @@ th, td {
 }    
 </style>
 
-# Sayeda Suaiba Anwar
 Assistant Professor <br>
 East Delta University <br>
 January 2025 - Present <br>
