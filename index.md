@@ -13,14 +13,10 @@ Assistant Professor <br>
 East Delta University <br>
 January 2025 - Present <br>
 
-Lecturer <br>
-East Delta University <br>
-September 2021 - January 2025 <br>
-
 Local Trainer - Python<br>
 EDGE Project by ICT Division, Bangladesh and World Bank <br>
 September 2024 - January 2025
-<img src="Suaiba.jpg" class="profile-picture" style="width:220px; height:220PX; border-radius:50%" >
+<img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
 
 ## About Me
 
@@ -55,14 +51,6 @@ I’m also fascinated by <b>GenAI</b>, and would love to work with them even bey
 <code style="color: green"><b>[27-02-22]</b></code> 1 paper accepted at 4th CIPR 2022 <br>
 <code style="color: green"><b>[19-09-21]</b></code> Joined as a Lecturer at East Delta University <br>
 
-## Learning Resources
-
-Here are some learning resources I found useful -
-
-* **YouTube Playlists**
-    - Pytorch Tutorials [[link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)]
-    - Deep Learning in Hindi [[link](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)]
-    - Machine Learning for Beginners [[link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)]
 
 ## Leadership Experiences
 
@@ -85,6 +73,17 @@ Here are some learning resources I found useful -
 * **Tournament Collaborator, HULT Prize 2020 at CUET**
     Chittagong University of Engineering and Technology
     August 2019 - December 2019
+  
+## Learning Resources
+
+Here are some learning resources I found useful -
+
+* **YouTube Playlists**
+    - Pytorch Tutorials [[link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)]
+    - Deep Learning in Hindi [[link](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)]
+    - Machine Learning for Beginners [[link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)]
+
+
 
 ---
 
