@@ -23,7 +23,7 @@ September 2024 - January 2025
 
 ## About Me
 
-<img class="profile-picture" src="Suaiba.jpg" width="200" height="200">
+<img class="profile-picture" src="Suaiba.jpg" width="500" height="500">
 
 
 <div style="text-align: justify">
