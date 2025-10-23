@@ -18,7 +18,7 @@ layout: default
 <h1><code style="color: orangered">Training and Workshop Experience </code></h1>
 ---
 
-**Session on "Emotional Intelligence for Academics - December 2024"**
+**Session on "Emotional Intelligence for Academics" - December 2024**
 * arranged by East Delta University
 * Attended a professional session on developing emotional intelligence and interpersonal effectiveness in academic environments.
 
