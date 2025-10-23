@@ -22,21 +22,21 @@ th, td {
 * Large Language Models (LLMs)
 
 
-<!-- |[Google Scholar](https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en)|[Research Gate](https://www.researchgate.net/profile/Udoy-Das-2)|  -->
+<!-- |[Google Scholar](https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao)|[Research Gate](https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf)|  -->
 
 
 <table>
 <tr> 
-<td><a href="https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en">Google Scholar</a></td>
-<td><a href="https://www.researchgate.net/profile/Udoy-Das-2">Research Gate</a></td>
+<td><a href="https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao">Google Scholar</a></td>
+<td><a href="[https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf]">Research Gate</a></td>
 </tr>
 </table>
 
 ## Conferences
 ---
-* BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech <br>
-***Udoy Das**, Md Saiful Islam, Hasan Murad, Muhammad Ibrahim Khan, Mehadi Hasan Menon, Tareq Muntasir* <br>
-Journal of Discover Applied Sciences | [Preprint](https://www.researchsquare.com/article/rs-6530449/latest)
+* Optimizing Privacy-Accuracy Trade-Off in IoT Intrusion Detection: An Analysis of FedAvg and FedProx with Differential Privacy <br>
+***Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
+Conference Proceedings of 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering  | [Paper](https://ieeexplore.ieee.org/document/10915154)
 
 * Team ML_Forge@ DravidianLangTech 2025: Multimodal Hate Speech Detection in Dravidian Languages <br>
 *Adnan Faisal, Shiti Chowdhury, Sajib Bhattacharjee, **Udoy Das**, Samia Rahman, Momtazul Arefin Labib, Hasan Murad* <br>
