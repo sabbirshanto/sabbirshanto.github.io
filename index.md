@@ -23,7 +23,8 @@ September 2024 - January 2025
 
 ## About Me
 
-<img class="profile-picture" src="Suaiba.jpg" width="500" height="500">
+<img src="Suaiba.jpg" alt="Sayeda Suaiba Anwar" class="profile-top-right">
+
 
 
 <div style="text-align: justify">
