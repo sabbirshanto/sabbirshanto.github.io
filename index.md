@@ -22,7 +22,7 @@ September 2024 - January 2025
 
 ## About Me
 
-<img src="Suaiba.jpg" alt="Sayeda Suaiba Anwar" class="profile-picture" style="width:250px; height:250px; border-radius:50%" >
+<img src="Suaiba.jpg" alt="Sayeda Suaiba Anwar" class="profile-picture" style="width:250px; height:auto; border-radius:50%" >
 
 
 
@@ -43,16 +43,15 @@ I’m also fascinated by <b>GenAI</b>, and would love to work with them even bey
 </table>
 
 ## Updates
-<code style="color: green"><b>[13-05-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now available as preprint - <a href="https://www.researchsquare.com/article/rs-6530449/latest">here</a> and currently under review<br>
-<code style="color: green"><b>[25-04-25]</b></code> Submitted my thesis <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> in Journal of Discover Applied Sciences<br>
-<code style="color: green"><b>[28-02-25]</b></code> 3 shared task papers has been accepted at DravidianLangTech-2025 @ NAACL 2025 <br>
-<code style="color: green"><b>[08-02-25]</b></code> Promoted to Lecturer <br>
-<code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
-<code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
-<code style="color: green"><b>[11-07-24]</b></code> 2 shared task papers accepted at ArabicNLP 2024 <br>
-<code style="color: green"><b>[25-06-24]</b></code> 1 shared task paper accepted at CheckThat! 2024 <br>
-<code style="color: green"><b>[19-03-24]</b></code> 1 shared task paper accepted at SemEval 2024 <br>
-<code style="color: green"><b>[11-10-23]</b></code> 2 shared task papers accepted at BLP Workshop @EMNLP 2023
+<code style="color: green"><b>[01-09-25]</b></code> Appointed as the Coordinator for the M.Sc. Program (CSE) <br>
+<code style="color: green"><b>[01-02-25]</b></code> Appointed as the Assistant Director of Directorate of Students Activities (DSA) <br>
+<code style="color: green"><b>[20-01-25]</b></code> Promoted to Assistant Professor  <br>
+<code style="color: green"><b>[14-11-24]</b></code> 2 papers accepted at 10th WIECON 2024 <br>
+<code style="color: green"><b>[01-09-24]</b></code> Appointed as a Local Trainer for Python at EDGE Project by ICT Division, Bangladesh and World Bank <br>
+<code style="color: green"><b>[28-06-24]</b></code> 1 paper accepted in the journal Security and Privacy <br>
+<code style="color: green"><b>[16-10-23]</b></code> 1 paper accepted at 9th WIECON 2023 <br>
+<code style="color: green"><b>[27-02-22]</b></code> 1 paper accepted at 4th CIPR 2022 <br>
+<code style="color: green"><b>[19-09-21]</b></code> Joined as a Lecturer at East Delta University <br>
 
 ## Learning Resources
 
