@@ -66,8 +66,6 @@ Here are some learning resources I found useful -
 
 ## Leadership Experiences
 
-Here are some learning resources I found useful -
-
 * **Coordinator, M.Sc. Program (CSE)**
     East Delta University
     September 2025 - Present
