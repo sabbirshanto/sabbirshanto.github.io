@@ -9,13 +9,17 @@ th, td {
 </style>
 
 # Udoy Das
+Assistant Professor <br>
+East Delta University <br>
+January 2025 - Present <br>
+
 Lecturer <br>
 East Delta University <br>
+September 2021 - January 2025 <br>
 
-B. Sc. in Computer Science and Engineering, <br>
-Chittagong University of Engineering and Technology <br>
-CGPA: **3.75(with Honors)** / 4.00 <br>
-
+Local Trainer - Python<br>
+EDGE Project by ICT Division, Bangladesh and World Bank <br>
+September 2024 - January 2025
 
 ## About Me
 
@@ -25,8 +29,8 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
     Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 </div>
 
-> Find my [Academic CV Here](https://drive.google.com/file/d/11t8vEJVNTpG4IvVGR7e8vXgNmD5Gbcd0/view?usp=sharing)
-
+Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, </b>Cybersecurity</b>, and </b>Federated Learning</b>, and I’m currently exploring how </b>Generative AI</b> can help build more secure and trustworthy systems.
+I’m also fascinated by <b>GenAI</b>, and would love to work with them even beyond cybersecurity-focused applications. Beyond academics, I’m an avid </b>debater</b> who enjoys thoughtful discussions and exchanging ideas that challenge perspectives and inspire innovation.
 
 <table>
 <tr> 
