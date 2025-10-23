@@ -5,23 +5,23 @@ layout: default
 <h1><code style="color: orangered">Education</code></h1>
 
 ---
+### Chittagong University of Engineering & Technology(CUET)
+
+M.Sc. in Computer Science and Engineering <br>
+September 2021 - January 2025 <br>
+CGPA: **3.75** / 4.00 <br>
 
 ### Chittagong University of Engineering & Technology(CUET)
 
 B.Sc. in Computer Science and Engineering <br>
-February 2019 - June 2024 <br>
-CGPA: **3.75(with Honors)** / 4.00 <br>
+February 2016 - August 2021 <br>
+CGPA: **3.54** / 4.00 <br>
 
-### Chittagong Cantonment Public College
-
-Higher Secondary School Certificate (HSC) <br>
-June 2016 - May 2018 <br>
-GPA: 4.83 out of 5.00 <br>
 
 # International Certification
 ### Language Profociency Test-IELTS
 
-Test Date: September 16, 2024 <br>
+Test Date: September 20, 2025 <br>
 <br>
-Score: **7.5** (Score Card) <br>
-Listening - 8.5 | Reading - 8.5 | Speaking - 6.5 | Writing - 6.5 <br>
+Score: **8.0** (Score Card) <br>
+Listening - 8.5 | Reading - 8.5 | Speaking - 7.0 | Writing - 7.0 <br>
