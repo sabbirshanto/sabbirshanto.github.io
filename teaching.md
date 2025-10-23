@@ -5,17 +5,19 @@ layout: default
 <h1><code style="color: orangered">Teaching</code></h1>
 
 ---
-### M.Sc. in Data Analytics Thesis Supervision -
 
-* 
 ### Undergraduate Thesis Supervision -
 
 I have supervised a number of students for their undergraduate thesis.
-* Implementation and Performance Analysis of Machine Learning Algorithms in PDF Malware Detection - Zarin Sadaf Borno, Nazmus Sakib (January, 2023).
-* Implementation of RAG in Large Language Models for Effective Mental Health Support: A Comparative Analysis - Tahera Batul Ety, Chaity Roy (December, 2023).
+
+* Predicting Hotel Booking Cancellation: A Machine Learning Approach - Punam Barua (August, 2025).
+* A Machine Learning Framework to Identify Disaster-Prone Nations using WorldRiskIndex - Mafia Rahman Tule (August, 2024).
+* Deep Learning-Based Malware Detection Of Pdf Files, Windows Executables and Network Traffic - Asad Ishteaque, Abbas Uddin (May, 2025).
+* Predicting Dhaka Stock Market Prices Using Deep Learning Models - Hosneara, Piyal Barua (May, 2025).
 * Comparative Analysis of Intrusion Detection Systems through Machine Learning and Deep Learning Models - Md. Ahnaf Akif, Mushpika Karnyn (May, 2024).
+* Implementation of RAG in Large Language Models for Effective Mental Health Support: A Comparative Analysis - Tahera Batul Ety, Chaity Roy (December, 2023).
+* Implementation and Performance Analysis of Machine Learning Algorithms in PDF Malware Detection - Zarin Sadaf Borno, Nazmus Sakib (January, 2023).
 * Depression Prediction among University Students using Machine Learning Approaches: Bangladesh Perspective - Pujan Dey, Ovy Mallik (January, 2023).
-* Deep Learning-Based Malware Detection Of Pdf Files, Windows Executables and Network Traffic - Asad Ishteaque, Abbas Uddin (May, 2025)
 
 ### Summer 2025 and Fall 2025 -
 * CSE 315: Microprocessor and Interfacing
