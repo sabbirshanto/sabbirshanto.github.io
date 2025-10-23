@@ -14,12 +14,13 @@ th, td {
 ---
 ## Research Interest
 ---
-* Natural Language Processing
-* Multimodal Learning
+* Artificial Intelligence
+* Internet of Things (IoT)
 * Machine and Deep Learning
-* Multilingual NLP
+* Cybersecurity
+* Federated Learning
 * Large Language Models (LLMs)
-* Text-to-Speech
+
 
 <!-- |[Google Scholar](https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en)|[Research Gate](https://www.researchgate.net/profile/Udoy-Das-2)|  -->
 
