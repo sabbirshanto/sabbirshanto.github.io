@@ -23,7 +23,8 @@ September 2024 - January 2025
 
 ## About Me
 
-<img class="profile-picture" src="Suaiba.jpg">
+<img class="profile-picture" src="Suaiba.jpg" width="200" height="200">
+
 
 <div style="text-align: justify">
   Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, </b>Cybersecurity</b>, and </b>Federated Learning</b>, and I’m currently exploring how </b>Generative AI</b> can help build more secure and trustworthy systems.
