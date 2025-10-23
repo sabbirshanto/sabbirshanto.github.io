@@ -3,8 +3,14 @@
 /*
  * Basic
  */
-.profile-top-right {
-    position: fixed;      /* fixes it on the screen */
+
+.header {
+    display: flex;              /* allows horizontal alignment */
+    justify-content: space-between; /* space between text and image */
+    align-items: center;        /* vertically center the items */
+    padding: 20px;              /* space around header */
+}
+.profile-top-right {      /* fixes it on the screen */
     top: 100px;            /* distance from top */
     right: 300px;          /* distance from right */
     width: 100px;         /* size of the image */
