@@ -13,12 +13,13 @@ Assistant Professor <br>
 East Delta University <br>
 
 ## About Me
+<img src="Suaiba.jpg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
 
 <div style="text-align: justify">
   Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, <b>Cybersecurity</b>, and <b>Federated Learning</b>, and I’m currently exploring how <b>Generative AI</b> can help build more secure and trustworthy systems.
 I’m also fascinated by <b>GenAI</b>, and would love to work with them even beyond cybersecurity-focused applications. Beyond academics, I’m an avid <b>debater</b> who enjoys thoughtful discussions and exchanging ideas that challenge perspectives and inspire innovation.
 </div>
-<img src="Suaiba.jpg" class="profile-picture" style="width:200px; height:200PX; border-radius:50%" >
+
 
 
 <table>
