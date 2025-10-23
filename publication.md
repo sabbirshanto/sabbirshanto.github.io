@@ -35,25 +35,25 @@ th, td {
 ## Journals 
 ---
 * A differential privacy aided DeepFed intrusion detection system for IoT applications <br>
-* **Sayeda Suaiba Anwar**, Md. Asaduzzaman, Iqbal Hasan Sarker* <br>
+***Sayeda Suaiba Anwar**, Md. Asaduzzaman, Iqbal Hasan Sarker* <br>
 Security and Privacy 2024  | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/spy2.445)
 
 ## Conferences
 ---
 * Optimizing Privacy-Accuracy Trade-Off in IoT Intrusion Detection: An Analysis of FedAvg and FedProx with Differential Privacy <br>
-* **Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
+***Sayeda Suaiba Anwar** and Mohammed Moshiul Hoque* <br>
 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2024  | [Paper](https://ieeexplore.ieee.org/document/10915154)
 
 * A Hybrid Deep Learning Model for Intrusion Detection in IoT Networks <br>
-* Md. Ahnaf Akif, Mushpika Karnyn, **Sayeda Suaiba Anwar*** <br>
+*Md. Ahnaf Akif, Mushpika Karnyn, **Sayeda Suaiba Anwar*** <br>
 10th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2024 | [Paper](https://ieeexplore.ieee.org/document/10915033)
 
 * Performance Analysis of Ensemble Machine Learning Algorithms in PDF Malware Detection <br>
-* Zarin Sadaf Borno, Nazmus Sakib, **Sayeda Suaiba Anwar** <br>
+*Zarin Sadaf Borno, Nazmus Sakib, **Sayeda Suaiba Anwar*** <br>
 9th IEEE International Women in Engineering (WIE) Conference on Electrical & Computer Engineering 2023 | [Paper](https://ieeexplore.ieee.org/document/10456385)
 
 * Transmission of Aggregated Data in LOADng-Based IoT Networks <br>
-* **Sayeda Suaiba Anwar** and Md. Asaduzzaman* <br>
+***Sayeda Suaiba Anwar** and Md. Asaduzzaman* <br>
 4th International Conference on Computational Intelligence in Pattern Recognition 2022 | [Paper](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_7)
 
 ---
