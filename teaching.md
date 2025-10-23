@@ -19,6 +19,7 @@ I have supervised a number of students for their undergraduate thesis.
 * Implementation and Performance Analysis of Machine Learning Algorithms in PDF Malware Detection - Zarin Sadaf Borno, Nazmus Sakib (January, 2023).
 * Depression Prediction among University Students using Machine Learning Approaches: Bangladesh Perspective - Pujan Dey, Ovy Mallik (January, 2023).
 
+### Course I instruct -
 ### Summer 2025 and Fall 2025 -
 * CSE 315: Microprocessor and Interfacing
 * CSE 316: Microprocessor and Interfacing Lab
