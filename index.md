@@ -7,7 +7,7 @@ th, td {
   border-radius: 10px;
 }    
 </style>
-<img src="Suaiba.jpg" class="profile-picture" style="width:250px; height:300PX; border-radius:50%" >
+
 
 Assistant Professor <br>
 East Delta University <br>
@@ -20,6 +20,8 @@ September 2021 - January 2025 <br>
 Local Trainer - Python<br>
 EDGE Project by ICT Division, Bangladesh and World Bank <br>
 September 2024 - January 2025
+
+<img src="Suaiba.jpg" class="profile-picture" style="width:250px; height:250PX; border-radius:50%" >
 
 ## About Me
 
