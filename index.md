@@ -45,25 +45,25 @@ I’m also fascinated by <b>GenAI</b>, and would love to work with them even bey
 
 ## Leadership Experiences
 
-* **Coordinator, M.Sc. Program (CSE)**
-    East Delta University
-    September 2025 - Present
+* **Coordinator, M.Sc. Program (CSE)** <br>
+    East Delta University <br>
+    September 2025 - Present <br>
 
-* **Assistant Director, Directorate of Students Activities (DSA)**
-    East Delta University
-    February 2025 - Present
+* **Assistant Director, Directorate of Students Activities (DSA)** <br>
+    East Delta University <br>
+    February 2025 - Present <br>
 
-* **Faculty Advisor, EDU Debating Society**
-    East Delta University
-    October 2021 - February 2024
+* **Faculty Advisor, EDU Debating Society** <br>
+    East Delta University <br>
+    October 2021 - February 2024 <br>
 
-* **Vice President (Literature), CUET Debating Society**
-    Chittagong University of Engineering and Technology
-    August 2019 - August 2020
+* **Vice President (Literature), CUET Debating Society** <br>
+    Chittagong University of Engineering and Technology <br>
+    August 2019 - August 2020 <br>
 
-* **Tournament Collaborator, HULT Prize 2020 at CUET**
-    Chittagong University of Engineering and Technology
-    August 2019 - December 2019
+* **Tournament Collaborator, HULT Prize 2020 at CUET** <br>
+    Chittagong University of Engineering and Technology <br>
+    August 2019 - December 2019 <br>
   
 ## Learning Resources
 
