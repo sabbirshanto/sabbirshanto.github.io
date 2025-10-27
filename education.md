@@ -19,5 +19,5 @@ Position: **8th**/120
 
 Test Date:  <br>
 <br>
-Score: **8.0** (Score Card) <br>
+Score: **7.0** (Score Card) <br>
 Listening - 7.5 | Reading - 6.0 | Speaking - 7.5 | Writing - 6.5 <br>
