@@ -7,10 +7,9 @@ layout: default
 ---
 
 <pre>
-<code style="color: fuchsia">Programming Languages</code>           Python, C++, C
-<code style="color: fuchsia">Web Technologies</code>                HTML5, CSS3
-<code style="color: fuchsia">Database Systems</code>                MySQL, PostgreSQL
-<code style="color: fuchsia">ML & DL</code>                         Scikit-Learn, Tensorﬂow, Keras, Pytorch, Flower, Hugging Face
+<code style="color: fuchsia">Programming Languages</code>           Python, C++, C, PySpark, Java
+<code style="color: fuchsia">Frameworks and Tools</code>            PyTorch, Apache Spark, Apache Hadoop, Django
+<code style="color: fuchsia">Operating System</code>                Linux
 <code style="color: fuchsia">Libraries</code>                       NumPy, Pandas, Matplotlib, Seaborn
 <code style="color: fuchsia">Content Writing</code>                 Latex, Microsoft Office
 </pre>
@@ -22,18 +21,17 @@ layout: default
 * arranged by East Delta University
 * Attended a professional session on developing emotional intelligence and interpersonal effectiveness in academic environments.
 
-**Industrial Attachment with Grameenphone - August 2019** [certificate](https://drive.google.com/file/d/1gR4jN1G6lTNpzZT8dJcALInet4JhuhH1/view?usp=drive_link)
-* Network Planning Department, Grameenphone Ltd.
-* Completed a 12-day industrial training focused on network infrastructure, radio access, and transmission planning.
+**”Faculty Training & Development Program - 2022**
+* organized by Centre for Training and Development (CTD) under IQAC by Port City International University.
 
-**Training on "Fundamental and Architecture Internet of Things (IoT)" - June 2019** [certificate](https://drive.google.com/file/d/1gcwg4KnzqA4yCn7zcOAanW4LaCw6PMY0/view?usp=drive_link)
-* organized by ICT Division, Bnagladesh
-* Completed a comprehensive 60-hour training on IoT fundamentals, architecture, and communication protocols.
+<h1><code style="color: orangered">Seminars Conducted </code></h1>
 
-**Workshop on "Android Control Robot" - July 2018** [certificate](https://drive.google.com/file/d/1d5MF29SAs9Dd-2DOeOZax0ZADD2vKKzP/view?usp=drive_link)
-* arranged by Chittagong University of Engineering and Technology
-* Hands-on workshop on designing and controlling a robot using an Android interface.
+**Seminar on ITEE**
+* Conducted a 1-hour seminar on effective preparation strategies, question pattern analysis, and success tips
+for the highly competitive [ITEE](https://bditec.gov.bd/) exam.
 
+**EDU Thesis Guidelines**
+* Conducted a 2-hour seminar at East Delta University to provide guidelines on writing a thesis paper effectively.
   
   
  
