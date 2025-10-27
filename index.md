@@ -8,12 +8,12 @@ th, td {
 }    
 </style>
 
-## Sayeda Suaiba Anwar
-Assistant Professor <br>
+## Md. Sabbir Al Ahsan
+Lecturer <br>
 East Delta University <br>
 
 ## About Me
-<img src="Suaiba.jpg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
+<img src="Sabbir.jpg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
 
 <div style="text-align: justify">
   Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, <b>Cybersecurity</b>, and <b>Federated Learning</b>, and I’m currently exploring how <b>Generative AI</b> can help build more secure and trustworthy systems.
@@ -43,7 +43,7 @@ I’m also fascinated by <b>GenAI</b>, and would love to work with them even bey
 <code style="color: green"><b>[19-09-21]</b></code> Joined as a Lecturer at East Delta University <br>
 
 
-## Leadership Experiences
+## Professional Experiences
 
 * **Coordinator, M.Sc. Program (CSE)** <br>
     East Delta University <br>
