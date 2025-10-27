@@ -26,6 +26,8 @@ layout: default
 
 <h1><code style="color: orangered">Seminars Conducted </code></h1>
 
+---
+
 **Seminar on ITEE**
 * Conducted a 1-hour seminar on effective preparation strategies, question pattern analysis, and success tips
 for the highly competitive [ITEE](https://bditec.gov.bd/) exam.
