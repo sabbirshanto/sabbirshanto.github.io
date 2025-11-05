@@ -40,26 +40,22 @@ I’m also fascinated by <b>GenAI</b>, and would love to work with them even bey
 <code style="color: green"><b>[28-06-24]</b></code> 1 paper accepted in the journal Security and Privacy <br>
 <code style="color: green"><b>[16-10-23]</b></code> 1 paper accepted at 9th WIECON 2023 <br>
 <code style="color: green"><b>[27-02-22]</b></code> 1 paper accepted at 4th CIPR 2022 <br>
-<code style="color: green"><b>[19-09-21]</b></code> Joined as a Lecturer at East Delta University <br>
+<code style="color: green"><b>[18-09-22]</b></code> Joined as a Lecturer at East Delta University <br>
 
 
 ## Professional Experiences
 
-* **Coordinator, M.Sc. Program (CSE)** <br>
+* **Assistant Coordinator, B.Sc. Program (CSE)** <br>
     East Delta University <br>
-    September 2025 - Present <br>
+    September 2024 - Present <br>
 
-* **Assistant Director, Directorate of Students Activities (DSA)** <br>
-    East Delta University <br>
-    February 2025 - Present <br>
-
-* **Faculty Advisor, EDU Debating Society** <br>
+* **Faculty Advisor, EDU Sports Club** <br>
     East Delta University <br>
     October 2021 - February 2024 <br>
 
-* **Vice President (Literature), CUET Debating Society** <br>
+* **Advisor, CUET Chess Club** <br>
     Chittagong University of Engineering and Technology <br>
-    August 2019 - August 2020 <br>
+    August 2022 - Present <br>
 
 * **Tournament Collaborator, HULT Prize 2020 at CUET** <br>
     Chittagong University of Engineering and Technology <br>
