@@ -39,3 +39,5 @@ I have supervised a number of students for their undergraduate thesis.
 * Progressive Multi-Phase Training for Motion-Aware Video Frame Extrapolation - Md. Mosharraf Hossain, Wahid Anowar (2025).
 * An Ensemble Deep Learning Framework for Two-Stage Diabetic Retinopathy Diagnosis and Severity Screening - Ahmed Noorim, Raina Nusrat Jahan (2024).
 * Audio-Visual Fusion for Deepfake Detection: A Deep Learning-Based Approach - Sadia Shahid Tisha, Salma Sultana (2024)
+
+
