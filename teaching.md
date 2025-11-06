@@ -6,19 +6,6 @@ layout: default
 
 ---
 
-### Undergraduate Thesis Supervision -
-
-I have supervised a number of students for their undergraduate thesis.
-
-* Predicting Hotel Booking Cancellation: A Machine Learning Approach - Punam Barua (August, 2025).
-* A Machine Learning Framework to Identify Disaster-Prone Nations using WorldRiskIndex - Mafia Rahman Tule (August, 2024).
-* Deep Learning-Based Malware Detection Of Pdf Files, Windows Executables and Network Traffic - Asad Ishteaque, Abbas Uddin (May, 2025).
-* Predicting Dhaka Stock Market Prices Using Deep Learning Models - Hosneara, Piyal Barua (May, 2025).
-* Comparative Analysis of Intrusion Detection Systems through Machine Learning and Deep Learning Models - Md. Ahnaf Akif, Mushpika Karnyn (May, 2024).
-* Implementation of RAG in Large Language Models for Effective Mental Health Support: A Comparative Analysis - Tahera Batul Ety, Chaity Roy (December, 2023).
-* Implementation and Performance Analysis of Machine Learning Algorithms in PDF Malware Detection - Zarin Sadaf Borno, Nazmus Sakib (January, 2023).
-* Depression Prediction among University Students using Machine Learning Approaches: Bangladesh Perspective - Pujan Dey, Ovy Mallik (January, 2023).
-
 ### Course I instruct -
 ### Summer 2025 and Fall 2025 -
 * CSE 221: Algorithms
@@ -43,3 +30,12 @@ I have supervised a number of students for their undergraduate thesis.
 * CSE 311: Operating Systems
 
 I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Lecturer** on September 18th, 2022.
+
+### Undergraduate Thesis Supervision -
+
+I have supervised a number of students for their undergraduate thesis.
+
+* Predicting Stock Movements with a Sentiment-Infused Model Case Studies on the Dhaka Stock Exchange - Rahidur Rahman (2025).
+* Progressive Multi-Phase Training for Motion-Aware Video Frame Extrapolation - Md. Mosharraf Hossain, Wahid Anowar (2025).
+* An Ensemble Deep Learning Framework for Two-Stage Diabetic Retinopathy Diagnosis and Severity Screening - Ahmed Noorim, Raina Nusrat Jahan (2024).
+* Audio-Visual Fusion for Deepfake Detection: A Deep Learning-Based Approach - Sadia Shahid Tisha, Salma Sultana (2024)
