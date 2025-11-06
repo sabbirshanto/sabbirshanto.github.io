@@ -15,10 +15,7 @@ East Delta University <br>
 ## About Me
 <img src="ProfilePhoto.jpeg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
 
-<div style="text-align: justify">
-  Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, <b>Cybersecurity</b>, and <b>Federated Learning</b>, and I’m currently exploring how <b>Generative AI</b> can help build more secure and trustworthy systems.
-I’m also fascinated by <b>GenAI</b>, and would love to work with them even beyond cybersecurity-focused applications. Beyond academics, I’m an avid <b>debater</b> who enjoys thoughtful discussions and exchanging ideas that challenge perspectives and inspire innovation.
-</div>
+<div style="text-align: justify"> Hi! I’m a <b>Lecturer</b>, <b>Researcher</b>, and enthusiastic <b>Python Developer</b> with a strong focus on <b>Machine Learning</b> and <b>Deep Learning</b>. I have a long-standing interest in <b>Computer Vision</b>, which is a core area of my expertise. My work combines rigorous understanding with hands-on application across diverse projects. I consider myself dedicated, punctual, and principled—and I’m always eager to learn and take on new challenges. </div>
 
 
 
