@@ -22,7 +22,8 @@ I have supervised a number of students for their undergraduate thesis.
 ### Course I instruct -
 ### Summer 2025 and Fall 2025 -
 * CSE 221: Algorithms
-* CSE 222: Algorithms Laboratory 
+* CSE 222: Algorithms Laboratory
+* CSE 466: Python-Based Project Development
 
 
 
