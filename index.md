@@ -52,9 +52,8 @@ East Delta University <br>
     Chittagong University of Engineering and Technology <br>
     August 2022 - Present <br>
 
-* **Tournament Collaborator, HULT Prize 2020 at CUET** <br>
-    Chittagong University of Engineering and Technology <br>
-    August 2019 - December 2019 <br>
+* **Co Convenor, Engineering Day 2024 at EDU** <br>
+    East Delta University <br>
   
 ## Learning Resources
 
