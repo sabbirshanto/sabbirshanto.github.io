@@ -52,7 +52,7 @@ East Delta University <br>
     Chittagong University of Engineering and Technology <br>
     August 2022 - Present <br>
 
-* **Co Convenor, Engineering Day 2024 at EDU** <br>
+* **Co-Convenor, Engineering Day 2024 at EDU** <br>
     East Delta University <br>
   
 ## Learning Resources
