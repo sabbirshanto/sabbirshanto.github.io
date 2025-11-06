@@ -13,7 +13,7 @@ Lecturer <br>
 East Delta University <br>
 
 ## About Me
-<img src="Sabbir.jpg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
+<img src="ProfilePhoto.jpeg" class="profile-picture" style="width:150px; height:150PX; border-radius:50%" >
 
 <div style="text-align: justify">
   Hi, I’m an AI enthusiast and researcher with strong skills in <b>Machine Learning</b> and <b>Deep Learning</b>. My research experience spans <b>IoT</b>, <b>Cybersecurity</b>, and <b>Federated Learning</b>, and I’m currently exploring how <b>Generative AI</b> can help build more secure and trustworthy systems.
