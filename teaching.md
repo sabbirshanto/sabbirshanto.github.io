@@ -33,11 +33,11 @@ I joined the **Computer Science and Engineering Department** at **East Delta Uni
 
 ### Undergraduate Thesis Supervision -
 
-I have supervised a number of students for their undergraduate thesis.
+I have supervised several students on their undergraduate thesis. Here are some significant works: 
 
 * Predicting Stock Movements with a Sentiment-Infused Model Case Studies on the Dhaka Stock Exchange - Rahidur Rahman (2025).
 * Progressive Multi-Phase Training for Motion-Aware Video Frame Extrapolation - Md. Mosharraf Hossain, Wahid Anowar (2025).
 * An Ensemble Deep Learning Framework for Two-Stage Diabetic Retinopathy Diagnosis and Severity Screening - Ahmed Noorim, Raina Nusrat Jahan (2024).
 * Audio-Visual Fusion for Deepfake Detection: A Deep Learning-Based Approach - Sadia Shahid Tisha, Salma Sultana (2024)
 
-
+*
