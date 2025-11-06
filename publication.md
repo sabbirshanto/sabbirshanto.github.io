@@ -12,15 +12,6 @@ th, td {
 <h1><code style="color: orangered">Publications</code></h1>
 
 ---
-## Research Interest
----
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Big Data Analytics
-* Natural Language Processing
-
-
 
 ## Journals 
 ---
