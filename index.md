@@ -31,14 +31,10 @@ East Delta University <br>
 </table>
 
 ## Updates
-<code style="color: green"><b>[01-09-25]</b></code> Appointed as the Coordinator for the M.Sc. Program (CSE) <br>
-<code style="color: green"><b>[01-02-25]</b></code> Appointed as the Assistant Director of Directorate of Students Activities (DSA) <br>
-<code style="color: green"><b>[20-01-25]</b></code> Promoted to Assistant Professor  <br>
-<code style="color: green"><b>[14-11-24]</b></code> 2 papers accepted at 10th WIECON 2024 <br>
+<code style="color: green"><b>[03-03-25]</b></code> 1 paper accepted at 10th ICTIS 2025 2025 <br>
+<code style="color: green"><b>[01-10-24]</b></code> Appointed as the Assistant Coordinator for the B.Sc. Program (CSE) <br>
 <code style="color: green"><b>[01-09-24]</b></code> Appointed as a Local Trainer for Python at EDGE Project by ICT Division, Bangladesh and World Bank <br>
-<code style="color: green"><b>[28-06-24]</b></code> 1 paper accepted in the journal Security and Privacy <br>
-<code style="color: green"><b>[16-10-23]</b></code> 1 paper accepted at 9th WIECON 2023 <br>
-<code style="color: green"><b>[27-02-22]</b></code> 1 paper accepted at 4th CIPR 2022 <br>
+<code style="color: green"><b>[01-02-23]</b></code> Appointed as the Academic Advisor of East Delta Sports Club<br>
 <code style="color: green"><b>[18-09-22]</b></code> Joined as a Lecturer at East Delta University <br>
 
 
