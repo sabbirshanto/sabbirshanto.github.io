@@ -43,4 +43,4 @@ I have been promoted to **Assistant Professor** in January 2025.
 * CSE 113: Structured Programming Language
 * CSE 114: Structured Programming Language Lab
 
-I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Lecturer** on September 19th, 2021.
+I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Lecturer** on September 18th, 2022.
