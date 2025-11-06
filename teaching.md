@@ -21,26 +21,24 @@ I have supervised a number of students for their undergraduate thesis.
 
 ### Course I instruct -
 ### Summer 2025 and Fall 2025 -
-* CSE 315: Microprocessor and Interfacing
-* CSE 316: Microprocessor and Interfacing Lab
-* DAS 502: Database Management System
+* CSE 221: Algorithms
+* CSE 222: Algorithms Laboratory 
 
 
-I have been promoted to **Assistant Professor** in January 2025.
 
 ### Spring 2025-
 
-* CSE 325: Computer Networks
-* CSE 326: Computer Networks Lab
-* MCSE 5608: Internet and Web based Technologies
+* CSE 221: Algorithms
+* CSE 222: Algorithms Laboratory 
+* MCSE 5608: Pattern Recognition
 
 
 ### Spring 2024, Summer 2024 and Fall 2024-
 
-* CSE 443: Neural Network and Fuzzy Systems
-* CSE 103: Computer Programming
-* CSE 104: Computer Programming Lab
+* CSE 221: Algorithms
+* CSE 222: Algorithms Laboratory 
 * CSE 113: Structured Programming Language
 * CSE 114: Structured Programming Language Lab
+* CSE 311: Operating Systems
 
 I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Lecturer** on September 18th, 2022.
