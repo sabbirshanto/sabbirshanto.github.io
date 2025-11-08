@@ -5,12 +5,6 @@ layout: default
 <h1><code style="color: orangered">Projects</code></h1>
 
 ---
-
-## Current Research Projects
----
-* **Deep Learning-Based Malware Detection Using SOMLAP and UGRansom Datasets with Explainable AI**
-* **Efficient Phishing Website Detection Using LLMs Enhanced with RAG and QLoRA**
-  
 ## Plant Disease Classification (EfficientNetB0, Transfer Learning + CAM)
 ---
 * Technologies/Tools: Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn, Gradio, Kaggle API
