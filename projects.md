@@ -5,7 +5,7 @@ layout: default
 <h1><code style="color: orangered">Projects</code></h1>
 
 ---
-## Plant Disease Classification (EfficientNetB0, Transfer Learning + CAM)
+## Plant Disease Classification with Transfer Learning and Explainable AI
 ---
 * Technologies/Tools: Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn, Gradio, Kaggle API
 * Github URL: [Project](https://github.com/suaiba04/FL-based-intrusion-detection)
