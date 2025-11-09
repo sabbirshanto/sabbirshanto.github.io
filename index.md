@@ -23,9 +23,9 @@ East Delta University <br>
 
 <table>
 <tr> 
-<td><a href="https://github.com/suaiba04">GitHub</a></td>
-<td><a href="https://www.linkedin.com/in/sayeda-suaiba-anwar-833476154/">LinkedIn</a></td>
-<td><a href="https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao">Google Scholar</a></td>
+<td><a href="https://github.com/sabbirshanto">GitHub</a></td>
+<td><a href="https://www.linkedin.com/in/sabbiralahsan/">LinkedIn</a></td>
+<td><a href="https://scholar.google.com/citations?user=s4z8E7kAAAAJ&hl=en&authuser=2">Google Scholar</a></td>
 <td><a href="https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf">Research Gate</a></td>
 </tr>
 </table>
