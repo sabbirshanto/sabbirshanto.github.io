@@ -13,12 +13,6 @@ February 2016 - August 2021 <br>
 CGPA: **3.71** / 4.00 <br>
 Position: **8th**/120
 
-# Online Courses
-* **Deep Learning Specialization** by Coursera
-* **Machine Learning** by Coursera
-* **Intermediate Python for Data Science** by Datacamp
-* **Introduction to Big Data and Hadoop** by BdREN. Rank: 28/500.
-
 # International Certification
 ### Language Profociency Test-IELTS
 
