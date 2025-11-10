@@ -14,15 +14,15 @@ CGPA: **3.71** / 4.00 <br>
 Position: **8th**/120
 
 <h1><code style="color: orangered">International Certification</code></h1>
-# International Certification
-### Language Profociency Test-IELTS
+
+### Language Proficiency Test-IELTS
 
 Test Date:  <br>
 <br>
 Score: **7.0** (Score Card) <br>
 Listening - 7.5 | Reading - 6.0 | Speaking - 7.5 | Writing - 6.5 <br>
 
-# Professional Certification
+<h1><code style="color: orangered">Professional Certification</code></h1>
 ### Information Technology Engineers Examination (ITEE) by BCC and ICT Division
 Rank: **24**/240
 
