@@ -10,8 +10,8 @@ layout: default
 
 B.Sc. in Computer Science and Engineering (CSE) <br>
 February 2016 - August 2021 <br>
-CGPA: 3.71 / 4.00 <br>
-Position: 8th/120
+CGPA: **3.71** / 4.00 <br>
+Position: **8th**/120
 
 <h1><code style="color: orangered">International Certification</code></h1>
 
