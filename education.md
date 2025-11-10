@@ -17,7 +17,7 @@ Position: **8th**/120
 
 ### Language Proficiency Test-IELTS
 
-Test Date:  <br>
+Test Date: 14-09-25 <br>
 <br>
 Score: **7.0** (Score Card) <br>
 Listening - 7.5 | Reading - 6.0 | Speaking - 7.5 | Writing - 6.5 <br>
