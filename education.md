@@ -13,7 +13,7 @@ February 2016 - August 2021 <br>
 CGPA: **3.71** / 4.00 <br>
 Position: **8th**/120
 
-<h1><code style="color: orangered">Education</code></h1>
+<h1><code style="color: orangered">International Certification</code></h1>
 # International Certification
 ### Language Profociency Test-IELTS
 
