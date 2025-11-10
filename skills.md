@@ -11,7 +11,7 @@ layout: default
 <code style="color: fuchsia">Frameworks and Tools</code>            PyTorch, Apache Spark, Apache Hadoop, Django
 <code style="color: fuchsia">Operating System</code>                Linux
 <code style="color: fuchsia">Libraries</code>                       NumPy, Pandas, Matplotlib, Seaborn
-<code style="color: fuchsia">Content Writing</code>                 Latex, 
+<code style="color: fuchsia">Content Writing</code>                 Latex 
 </pre>
 
 
