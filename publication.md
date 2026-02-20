@@ -28,7 +28,7 @@ Applied Sciences MDPI 2020  | [Paper](https://www.mdpi.com/2076-3417/10/24/8773)
 
 
 * Predicting Stock Movements with a Sentiment-Infused Model: Case Studies on the Dhaka Stock Exchange <br>
-  *Rahidur Rahman1,**Md. Sabbir Al Ahsan**, Sourav Adhikary, Md. Jamil Uddin* <br>
+*Rahidur Rahman1,**Md. Sabbir Al Ahsan**, Sourav Adhikary, Md. Jamil Uddin* <br>
 28th International Conference on Computer and Information Technology,2025 | [Paper]()
 
 
