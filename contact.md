@@ -24,4 +24,4 @@ is_contact: true
 1. [LinkedIn]([https://www.linkedin.com/in/sabbiralahsan/])
 2. [Google Scholar](https://scholar.google.com/citations?user=29-aD5kAAAAJ&hl=en&oi=ao)
 3. [GitHub](https://github.com/sabbirshanto)
-4. [Research Gate](https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf)
+4. [Research Gate]([https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf](https://www.researchgate.net/profile/Md-Sabbir-Al-Ahsan?ev=hdr_xprf))
