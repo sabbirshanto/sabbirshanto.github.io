@@ -31,7 +31,9 @@ East Delta University <br>
 </table>
 
 ## Updates
-<code style="color: green"><b>[03-03-25]</b></code> 1 paper accepted at 10th ICTIS 2025 2025 <br>
+<code style="color: green"><b>[03-03-25]</b></code> 1 paper accepted at 5th ICECTE, 2026  <br>
+<code style="color: green"><b>[03-03-25]</b></code> 2 papers accepted at 28th ICCIT, 2025  <br>
+<code style="color: green"><b>[03-03-25]</b></code> 1 paper accepted at 10th ICTIS, 2024  <br>
 <code style="color: green"><b>[01-10-24]</b></code> Appointed as the Assistant Coordinator for the B.Sc. Program (CSE) <br>
 <code style="color: green"><b>[01-09-24]</b></code> Appointed as a Local Trainer for Python at EDGE Project by ICT Division, Bangladesh and World Bank <br>
 <code style="color: green"><b>[01-02-23]</b></code> Appointed as the Academic Advisor of East Delta Sports Club<br>
