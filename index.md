@@ -26,7 +26,7 @@ East Delta University <br>
 <td><a href="https://github.com/sabbirshanto">GitHub</a></td>
 <td><a href="https://www.linkedin.com/in/sabbiralahsan/">LinkedIn</a></td>
 <td><a href="https://scholar.google.com/citations?user=s4z8E7kAAAAJ&hl=en&authuser=2">Google Scholar</a></td>
-<td><a href="https://www.researchgate.net/profile/Sayeda-Anwar?ev=hdr_xprf">Research Gate</a></td>
+<td><a href="https://www.researchgate.net/profile/Md-Sabbir-Al-Ahsan?ev=hdr_xprf">Research Gate</a></td>
 </tr>
 </table>
 
