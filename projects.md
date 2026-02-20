@@ -5,12 +5,6 @@ layout: default
 <h1><code style="color: orangered">Projects</code></h1>
 
 ---
-## Plant Disease Classification with Transfer Learning and Explainable AI
----
-* Technologies/Tools: Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn, Gradio, Kaggle API
-* Github URL: [Project](https://github.com/sabbirshanto/Plant-Disease-Classification-with-Transfer-Learning-and-Explainable-AI)
-* Built an end-to-end image classification pipeline for plant leaf diseases using transfer learning. I created efficient tf.data loaders, applied light augmentations, and used EfficientNetB0 (ImageNet weights) with a warm-up phase and selective fine-tuning. Evaluation includes Accuracy/Top-3 Accuracy and a scikit-learn report (Precision/Recall/F1). For explainability, I generated Class Activation Maps (CAM) to highlight discriminative regions on leaves, and packaged a Gradio demo for quick inference.
-
 
 ## Hotel Recommendation Using Co-Attention (Multimodal: Reviews + Images)
 ---
@@ -18,6 +12,15 @@ layout: default
 * Technologies/Tools: Python, PyTorch, PyTorch Lightning, HuggingFace Transformers (RoBERTa), OpenAI/LAION CLIP, NumPy, Pandas, scikit-learn, Optuna, Matplotlib/Seaborn
 * Github URL: [Project](https://github.com/sabbirshanto/Hotel-Recommendation-Using-Coattention-Model)
 * Built a personalized hotel recommender that fuses text reviews and hotel images with a token–patch co-attention mechanism. Review tokens (RoBERTa) and image patches (CLIP) attend to each other to capture aspect cues (cleanliness, room quality, amenities). The user–item interaction is modeled with a lightweight ranking head optimized via BPR/LambdaRank-style objectives. The pipeline includes robust preprocessing (text cleaning, sentiment/aspect cues, image normalization), reproducible splits, and evaluation with Precision@K / Recall@K / NDCG@K / MAP@K.
+
+
+## Plant Disease Classification with Transfer Learning and Explainable AI
+---
+* Technologies/Tools: Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn, Gradio, Kaggle API
+* Github URL: [Project](https://github.com/sabbirshanto/Plant-Disease-Classification-with-Transfer-Learning-and-Explainable-AI)
+* Built an end-to-end image classification pipeline for plant leaf diseases using transfer learning. I created efficient tf.data loaders, applied light augmentations, and used EfficientNetB0 (ImageNet weights) with a warm-up phase and selective fine-tuning. Evaluation includes Accuracy/Top-3 Accuracy and a scikit-learn report (Precision/Recall/F1). For explainability, I generated Class Activation Maps (CAM) to highlight discriminative regions on leaves, and packaged a Gradio demo for quick inference.
+
+
 
 
 ## COVID-19 Big Data Analysis with PySpark
