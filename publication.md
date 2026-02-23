@@ -9,7 +9,7 @@ th, td {
 </style>
 
 
-<h1><code style="color: orangered">Publications</code></h1>
+
 
 ---
 
@@ -39,10 +39,6 @@ Applied Sciences MDPI 2020  | [Paper](https://www.mdpi.com/2076-3417/10/24/8773)
 * An Ensemble Deep Learning Framework for Two-Stage Diabetic Retinopathy Diagnosis and Severity Screening <br>
 *Ahmed Noorim, Raina Nusrat Jahan, **Md. Sabbir Al Ahsan**, Sourav Adhikary, Md. Jamil Uddin* <br>
 10th International Conference on ICT for Intelligent Systems 2024  | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-1365-9_27)
-  
-
-
-
 
 ## Symposium Presentations
 ---
