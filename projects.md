@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-## Hotel Recommendation Using Co-Attention (Multimodal: Reviews + Images)
+## Hotel Recommendation Using Hotel Images and Reviews: Crossmodal Attention 
 ---
 
 * Technologies/Tools: Python, PyTorch, PyTorch Lightning, HuggingFace Transformers (RoBERTa), OpenAI/LAION CLIP, NumPy, Pandas, scikit-learn, Optuna, Matplotlib/Seaborn
