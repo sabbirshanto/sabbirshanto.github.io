@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-<style>
-th, td {
-  border: 1px solid black;
-  border-radius: 10px;
-}    
-</style>
 
 
 
