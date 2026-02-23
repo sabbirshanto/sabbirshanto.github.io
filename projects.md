@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<h1><code style="color: orangered">Projects</code></h1>
 
 ---
 
