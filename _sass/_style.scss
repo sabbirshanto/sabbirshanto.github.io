@@ -35,7 +35,7 @@ hr {
     border: 0;
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
-    margin: 0;
+    margin: 0 0 50px 0; /* Adds 50px of empty space below the line */
 }
 
 /*
@@ -44,9 +44,9 @@ hr {
 
 .navbar {
     display: flex;
-    justify-content: space-between; /* Name on left, Links on right */
+    justify-content: space-between;
     align-items: center;
-    padding: 30px 0;
+    padding: 60px 0 40px 0; /* 60px top space, 40px bottom space */
 }
 
 #author-name {
@@ -65,7 +65,7 @@ hr {
 }
 
 .nav-list {
-    margin-left: 20px; /* Modern spacing instead of slashes */
+    margin-left: 30px; /* Spreads the links out more */
     font-weight: 500;
 }
 
