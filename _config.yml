@@ -1,20 +1,15 @@
 title: Md. Sabbir Al Ahsan
 url: "https://sabbirshanto.github.io/"
-baseurl: "/"
-
+baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-
 tracking_id: #
-
 # footer: yes
 # footer_url: "https://github.com/ankitsultana"
 # footer_text: "Page design by Ankit Sultana"
-
 sass:
     style: compressed
     sass_dir: _sass
-
 nav:
  - name: "About"
    link: "/"
