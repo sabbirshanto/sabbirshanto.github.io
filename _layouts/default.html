@@ -206,6 +206,21 @@
       font-weight: 600;
     }
 
+    .main-content blockquote {
+      border-left: 3px solid var(--accent);
+      padding: 8px 16px;
+      margin: 16px 0;
+      color: var(--text-light);
+      font-style: italic;
+      background: #f9f9f9;
+    }
+
+    .main-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 24px 0;
+    }
+
     /* Updates list */
     .updates-list { list-style: none; padding-left: 0; }
     .updates-list li {
@@ -275,15 +290,15 @@
 <!-- ── TOP NAVIGATION ── -->
 <header class="masthead">
   <div class="masthead-inner">
-    <a href="/" class="masthead-brand">Md. Sabbir Al Ahsan</a>
+    <a href="{{ site.baseurl }}/" class="masthead-brand">Md. Sabbir Al Ahsan</a>
     <nav class="masthead-nav">
-      <a href="/">About</a>
-      <a href="/teaching">Teaching</a>
-      <a href="/education">Education</a>
-      <a href="/publication">Publication</a>
-      <a href="/projects">Projects</a>
-      <a href="/skills">Skills</a>
-      <a href="/contact">Contact</a>
+      <a href="{{ site.baseurl }}/">About</a>
+      <a href="{{ site.baseurl }}/teaching">Teaching</a>
+      <a href="{{ site.baseurl }}/education">Education</a>
+      <a href="{{ site.baseurl }}/publication">Publication</a>
+      <a href="{{ site.baseurl }}/projects">Projects</a>
+      <a href="{{ site.baseurl }}/skills">Skills</a>
+      <a href="{{ site.baseurl }}/contact">Contact</a>
     </nav>
   </div>
 </header>
@@ -295,7 +310,7 @@
   <aside class="sidebar">
     <img
       class="sidebar-avatar"
-      src="/ProfilePhoto.jpeg"
+      src="{{ site.baseurl }}/ProfilePhoto.jpeg"
       alt="Md. Sabbir Al Ahsan"
     />
     <div class="sidebar-name">Md. Sabbir Al Ahsan</div>
@@ -309,23 +324,23 @@
       </li>
       <li>
         <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/></svg>
-        <a href="mailto:sabbiralahsan@edu.com">sabbiralahsan@edu.com</a>
+        <a href="mailto:sabbiralahsan@gmail.com">sabbiralahsan@gmail.com</a>
       </li>
       <li>
         <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
         <a href="https://github.com/sabbirshanto" target="_blank">GitHub</a>
       </li>
       <li>
-        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         <a href="https://www.linkedin.com/in/sabbiralahsan/" target="_blank">LinkedIn</a>
       </li>
       <li>
         <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3L1 9l4 2.18V17c0 .34.18.66.47.82L12 21l6.53-3.18c.29-.16.47-.48.47-.82v-5.82L23 9 12 3zm6 13.5l-6 2.92-6-2.92V12.5l6 3.27 6-3.27v4z"/></svg>
-        <a href="https://scholar.google.com/citations?user=s4z8E7kAAAAJ" target="_blank">Google Scholar</a>
+        <a href="https://scholar.google.com/citations?user=s4z8E7kAAAAJ&hl=en&authuser=2" target="_blank">Google Scholar</a>
       </li>
       <li>
         <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.586 0c-.818 0-1.508.19-2.073.565-.563.377-.97.936-1.213 1.68a12.458 12.458 0 0 0-.39 1.812c-.06.55-.082 1.166-.082 1.839v.089c-.314.634-.614 1.27-.9 1.908-.73 1.614-1.49 3.218-2.27 4.815-.78-1.597-1.54-3.2-2.27-4.815-.286-.638-.586-1.274-.9-1.908v-.09c0-.672-.022-1.288-.082-1.839A12.44 12.44 0 0 0 9.015 2.245C8.773 1.5 8.365.941 7.802.565 7.238.19 6.548 0 5.73 0 4.472 0 3.448.402 2.66 1.204 1.87 2.007 1.477 3.01 1.477 4.212c0 1.05.306 1.92.917 2.607.61.688 1.39 1.034 2.336 1.034.55 0 1.076-.144 1.578-.43a4.07 4.07 0 0 0 1.23-1.137c.064.3.136.598.217.895.27 1.007.714 1.842 1.333 2.505.62.664 1.395.996 2.33.996h.165c.933 0 1.708-.332 2.328-.996.62-.663 1.063-1.498 1.333-2.505.081-.297.153-.595.217-.895a4.07 4.07 0 0 0 1.23 1.137c.502.286 1.028.43 1.578.43.946 0 1.726-.346 2.336-1.034.611-.687.917-1.557.917-2.607 0-1.202-.393-2.205-1.18-3.008C22.135.402 21.11 0 19.854 0h-.268zM12 13.16c-2.147 0-3.91.613-5.29 1.84C5.33 16.225 4.64 17.8 4.64 19.72c0 1.268.368 2.282 1.103 3.043C6.478 23.523 7.49 24 8.776 24h6.448c1.286 0 2.298-.477 3.033-1.237.735-.761 1.103-1.775 1.103-3.043 0-1.92-.69-3.495-2.07-4.72-1.38-1.227-3.143-1.84-5.29-1.84z"/></svg>
-        <a href="https://www.researchgate.net/profile/Md-Sabbir-Al-Ahsan" target="_blank">ResearchGate</a>
+        <a href="https://www.researchgate.net/profile/Md-Sabbir-Al-Ahsan?ev=hdr_xprf" target="_blank">ResearchGate</a>
       </li>
     </ul>
   </aside>
