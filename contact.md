@@ -3,8 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [sabbir.a@eastdelta.edu.bd](mailto:sabbir.a@eastdelta.edu.bd), [sabbir.shantocse@gmail.com](mailto:sabbir.shantocse@gmail.com)
+## Email
 
+> [sabbir.a@eastdelta.edu.bd](mailto:sabbir.a@eastdelta.edu.bd), [sabbir.shantocse@gmail.com](mailto:sabbir.shantocse@gmail.com)
+>
 
 
 ---
