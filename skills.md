@@ -73,19 +73,19 @@ title: Skills
 ## Awards
 
 <div class="exp-item">
-  <h4>🏆 Champion</h4>
+  <h4>Champion</h4>
   <div class="exp-org">CUET Football League, 2018 &amp; 2019</div>
   <div class="exp-org">CUET Intra Hall Cricket Tournament, 2019</div>
 </div>
 
 <div class="exp-item">
-  <h4>🥈 Runner-Up</h4>
+  <h4>Runner-Up</h4>
   <div class="exp-org">100-meter Sprint, Faculty Competition, Port City International University, 2021</div>
   <div class="exp-org">CUET Intra Hall Chess Tournament, 2018 &amp; 2019</div>
 </div>
 
 <div class="exp-item">
-  <h4>🥉 2nd Runner-Up</h4>
+  <h4>2nd Runner-Up</h4>
   <div class="exp-org">100-meter Sprint, CUET Annual Sports Competition, 2017 &amp; 2019</div>
 </div>
 
