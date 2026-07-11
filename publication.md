@@ -7,13 +7,13 @@ layout: default
 
 ---
 
-## Journals 
+**## Journals **
 ---
 * A Framework for Identifying Influential People by Analyzing Social Media Data <br>
 ***Md. Sabbir Al Ahsan**, Mohammad Shamsul Arefin, A. S. M. Kayes, Mohammad Hammoudeh, Omar Aldabbas* <br>
 Applied Sciences MDPI 2020  | [Paper](https://www.mdpi.com/2076-3417/10/24/8773)
 
-## Conferences
+**## Conferences**
 ---
 
 * License Plate Detection and Recognition for Bangladeshi Vehicles<br>
@@ -38,7 +38,7 @@ Applied Sciences MDPI 2020  | [Paper](https://www.mdpi.com/2076-3417/10/24/8773)
 *Ahmed Noorim, Raina Nusrat Jahan, **Md. Sabbir Al Ahsan**, Sourav Adhikary, Md. Jamil Uddin* <br>
 10th International Conference on ICT for Intelligent Systems 2024  | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-1365-9_27)
 
-## Symposium Presentations
+**## Symposium Presentations**
 ---
 * Weather Prediction Model using Machine Learning Algorithm and Apache Spark Framework <br>
 Presented at the 1st National Workshop on Big Data and Machine Learning (BDML), 2020 | 
