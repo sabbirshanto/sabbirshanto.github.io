@@ -11,7 +11,7 @@ is_contact: true
 
 ## Office Address
 
-> East Delta University
+> **East Delta University**
 >
 >Abdullah Al Noman Road, Noman Society, East Nasirabad, Khulshi, Chattogram: 4209
 >
