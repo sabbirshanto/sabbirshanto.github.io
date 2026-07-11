@@ -5,15 +5,15 @@ is_contact: true
 
 * Email: [sabbir.a@eastdelta.edu.bd](mailto:sabbir.a@eastdelta.edu.bd), [sabbir.shantocse@gmail.com](mailto:sabbir.shantocse@gmail.com)
 
-* Phone: [+8801761646044](tel:+8801761646044)
+
 
 ---
 
-## Mailing Address
+## Office Address
 
-> South Khulshi R/A
+> East Delta University
 >
-> Khulshi, Chattogram
+>Abdullah Al Noman Road, Noman Society, East Nasirabad, Khulshi, Chattogram: 4209
 >
 > Bangladesh
 
