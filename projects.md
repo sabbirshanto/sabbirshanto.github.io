@@ -19,7 +19,7 @@ layout: default
 * Built an end-to-end image classification pipeline for plant leaf diseases using transfer learning. I created efficient tf.data loaders, applied light augmentations, and used EfficientNetB0 (ImageNet weights) with a warm-up phase and selective fine-tuning. Evaluation includes Accuracy/Top-3 Accuracy and a scikit-learn report (Precision/Recall/F1). For explainability, I generated Class Activation Maps (CAM) to highlight discriminative regions on leaves, and packaged a Gradio demo for quick inference.
 
 
-## COVID-19 Big Data Analysis with PySpark**
+**COVID-19 Big Data Analysis with PySpark**
 ---
 
 * Technologies/Tools: PySpark (SparkConf, SparkContext, SQLContext, Spark SQL), HDFS (bdrenhdfs client), Python (logging, random), Pandas-style aggregations via Spark, Linux CLI
