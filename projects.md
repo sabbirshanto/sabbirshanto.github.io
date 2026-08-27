@@ -5,10 +5,10 @@ layout: default
 
 ---
 
-**## Hotel Recommendation Using Hotel Images and Reviews: Crossmodal Attention **
+**## A Cross-Modal Hotel Recommendation Using Hotel Images and Reviews **
 ---
 
-* Technologies/Tools: Python, PyTorch, PyTorch Lightning, HuggingFace Transformers (RoBERTa), OpenAI/LAION CLIP, NumPy, Pandas, scikit-learn, Optuna, Matplotlib/Seaborn
+* Technologies/Tools: Python, PyTorch, HuggingFace Transformers (RoBERTa), OpenAI/LAION CLIP, NumPy, Pandas, scikit-learn, Optuna, Matplotlib/Seaborn
 * Github URL: [Project](https://github.com/sabbirshanto/Hotel-Recommendation-Using-Coattention-Model)
 * Built a personalized hotel recommender that fuses text reviews and hotel images with a token–patch co-attention mechanism. Review tokens (RoBERTa) and image patches (CLIP) attend to each other to capture aspect cues (cleanliness, room quality, amenities). The user–item interaction is modeled with a lightweight ranking head optimized via BPR/LambdaRank-style objectives. The pipeline includes robust preprocessing (text cleaning, sentiment/aspect cues, image normalization), reproducible splits, and evaluation with Precision@K / Recall@K / NDCG@K / MAP@K.
 
