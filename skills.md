@@ -3,31 +3,6 @@ layout: default
 title: Skills
 ---
 
-## Technical Skills
-
-<div class="skills-table">
-  <div class="skill-row">
-    <span class="skill-label">Programming Languages</span>
-    <span class="skill-value">Python, C++, C, PySpark, Java</span>
-  </div>
-  <div class="skill-row">
-    <span class="skill-label">Frameworks and Tools</span>
-    <span class="skill-value">PyTorch, Apache Spark, Apache Hadoop, Django</span>
-  </div>
-  <div class="skill-row">
-    <span class="skill-label">Operating System</span>
-    <span class="skill-value">Linux</span>
-  </div>
-  <div class="skill-row">
-    <span class="skill-label">Libraries</span>
-    <span class="skill-value">NumPy, Pandas, Matplotlib, Seaborn</span>
-  </div>
-  <div class="skill-row">
-    <span class="skill-label">Content Writing</span>
-    <span class="skill-value">LaTeX</span>
-  </div>
-</div>
-
 ## Co-Curricular Activities & Leadership
 
 <div class="exp-item">
