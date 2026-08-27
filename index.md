@@ -22,16 +22,4 @@ Hi! I'm a <strong>Lecturer</strong>, <strong>Researcher</strong>, and enthusiast
 </ul>
 
 
-## Learning Resources
 
-Here are some learning resources I found useful —
-
-- **YouTube Playlists**
-  - Pytorch Tutorials \[[link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)\]
-  - Deep Learning in Hindi \[[link](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)\]
-  - Machine Learning for Beginners \[[link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)\]
-
----
-
-> The best way to predict your future is to create it.
-> — *Abraham Lincoln*
