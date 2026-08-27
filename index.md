@@ -21,30 +21,6 @@ Hi! I'm a <strong>Lecturer</strong>, <strong>Researcher</strong>, and enthusiast
   <li><span class="update-date">18 Sep 2022</span><span>Joined as a Lecturer at East Delta University.</span></li>
 </ul>
 
-## Professional Experiences
-
-<div class="exp-item">
-  <h4>Assistant Coordinator, B.Sc. Program (CSE)</h4>
-  <div class="exp-org">East Delta University</div>
-  <div class="exp-date">September 2024 – Present</div>
-</div>
-
-<div class="exp-item">
-  <h4>Faculty Advisor, EDU Sports Club</h4>
-  <div class="exp-org">East Delta University</div>
-  <div class="exp-date">October 2021 – February 2024</div>
-</div>
-
-<div class="exp-item">
-  <h4>Advisor, CUET Chess Club</h4>
-  <div class="exp-org">Chittagong University of Engineering and Technology</div>
-  <div class="exp-date">August 2022 – Present</div>
-</div>
-
-<div class="exp-item">
-  <h4>Co-Convenor, Engineering Day 2024 at EDU</h4>
-  <div class="exp-org">East Delta University</div>
-</div>
 
 ## Learning Resources
 
