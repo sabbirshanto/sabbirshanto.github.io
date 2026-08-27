@@ -18,7 +18,7 @@ nav:
  - name: "Education"
    link: "education"
  -name: "Experience"
-  link: "experience"
+   link: "experience"
  - name: "Publication"
    link: "publication"
  - name: "Projects"
