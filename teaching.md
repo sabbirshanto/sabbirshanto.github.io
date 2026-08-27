@@ -5,30 +5,22 @@ layout: default
 
 ---
 
-### Course I instruct -
-### Summer 2025 and Fall 2025 -
+### Courses I am currently conducting
+
 * CSE 221: Algorithms
 * CSE 222: Algorithms Laboratory
 * CSE 466: Python-Based Project Development
 
 
 
-### Spring 2025-
+### Courses I have previously conducted 
 
-* CSE 221: Algorithms
-* CSE 222: Algorithms Laboratory 
-* MCSE 5608: Pattern Recognition
-
-
-### Spring 2024, Summer 2024 and Fall 2024-
-
-* CSE 221: Algorithms
-* CSE 222: Algorithms Laboratory 
+* CSE 463: Big Data with Machine Learning 
 * CSE 113: Structured Programming Language
 * CSE 114: Structured Programming Language Lab
 * CSE 311: Operating Systems
 
-I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Lecturer** on September 18th, 2022.
+
 
 ### Undergraduate Thesis Supervision -
 
